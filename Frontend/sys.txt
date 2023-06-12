@@ -1,0 +1,7 @@
+C:\Program Files\Python310\Scripts
+
+
+C:\Program Files\Python310
+
+
+C:\Python27
